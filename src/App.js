@@ -6,7 +6,7 @@ import Header from './components/Header'
 import Home from './components/Home'
 
 const App = () => {
-  console.log('test')
+  console.log('test1')
   return (
     <div className="App">
       <Header />
